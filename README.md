@@ -56,9 +56,9 @@ This project shows how effective preprocessing, SMOTE oversampling, and proper e
 
 > ✨ Note: This project is a work in progress and may receive future updates.
 ---
-##👩🏾‍💻 Author
+👩🏾‍💻 Author
 Divine U. Efiok
 Computer Engineering + Math @ Texas A&M University
-📫 Reach me on LinkedIn or GitHub to connect or collaborate!
+
 
 
